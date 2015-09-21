@@ -11,7 +11,7 @@ describe ('Hello module', function() {
 
     it ('should return result of accumulation two numbers', function() {
         var result = op.kurang(1, 2);
-        result.should.equal(-1);
+        result.should.equal(-5);
 
     });
 
